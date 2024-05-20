@@ -29,3 +29,4 @@ https://github.com/okibcn/ScoopMaster,16202 apps
 https://github.com/lzwme/scoop-proxy-cn,16195 apps
 https://github.com/anderlli0053/DEV-tools,16151 apps
 https://github.com/duzyn/scoop-cn,4903 apps
+https://github.com/zeero/scoop-my-bucket,Error in ScoopMaster.
